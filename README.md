@@ -2,6 +2,7 @@
 
 A custom React hook for scrolling to the anchor element corresponding to the current URL hash.
 
+## Usage
 ```
 import React, { useState } from 'react';
 import { useScrollToAnchor } from './useScrollToAnchor';
