@@ -20,8 +20,3 @@ const App = () => {
 
 export default App;
 ```
-
-
-"color-highlight.markerType": "underline",
-    "color-highlight.markRuler": false,
-    
